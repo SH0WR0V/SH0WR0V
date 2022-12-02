@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, S. M. Shahriar here.</h1>
-<h3 align="center">I'm a forward-thinking person with a creative mind. I am currently an undergraduate student in the Department of Computer Science and Engineering at American International University-Bangladesh. My favorite programming languages include C#, HTML, CSS, PHP, JavaScript, and Python. I've also accomplished various projects in these languages.</h3>
+<h3 align="center">I'm a forward-thinking person with a creative mind. I am currently an undergraduate student in the Department of Computer Science and Engineering at American International University-Bangladesh. My favorite programming languages include C, C++, C#, Java, PHP and Python. I've also accomplished various projects in these languages. I feel I'm really good at laravel framework. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sh0wr0v&label=Profile%20views&color=0e75b6&style=flat" alt="sh0wr0v" /> </p>
 

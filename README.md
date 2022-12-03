@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://github.com/SH0WR0V/cv-of-s.-m.-shahriar.git](https://github.com/SH0WR0V/cv-of-s.-m.-shahriar.git)
 
-- ⚡ Fun fact **My favourite subject in school was 'physical education' 😛😛**
+- ⚡ Fun fact **My favourite subject in school was 'Sharirik Shikkha' 😛😛**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

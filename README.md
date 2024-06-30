@@ -7,14 +7,11 @@
 
 - 📫 How to reach me **sm.shahriar1230@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/SH0WR0V/cv-of-s.-m.-shahriar.git](https://github.com/SH0WR0V/cv-of-s.-m.-shahriar.git)
-
 - ⚡ Fun fact **404 Not found😛😛**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/s. m. shahriar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s. m. shahriar" height="30" width="40" /></a>
-<a href="https://fb.com/s. m. shahriar (showrov)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="s. m. shahriar (showrov)" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dev-s-m-shahriar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s. m. shahriar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

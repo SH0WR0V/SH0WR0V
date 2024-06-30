@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, S. M. Shahriar here.</h1>
-<h3 align="center">I'm a forward-thinking person with a creative mind. I have completed my bachelor's in Computer Science and Engineering from American International University-Bangladesh. My favorite programming languages include C, C++, C#, Java, PHP, Javascript. I've also accomplished various projects in these languages. I feel I'm really good at Laravel framework. </h3>
+<h3 align="center">I'm a forward-thinking person with a creative mind. I have completed my bachelor's in Computer Science and Engineering from American International University-Bangladesh. My favorite programming languages include C, C++, C#, Java, PHP & Javascript. I've also accomplished various projects in these languages. I feel I'm really good at Laravel framework & React JS with Laravel Rest API </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sh0wr0v&label=Profile%20views&color=0e75b6&style=flat" alt="sh0wr0v" /> </p>
 
-- 🔭 I’m currently working on [car rental management system using react](https://github.com/SH0WR0V/react_project_car_rental_management.git)
-
-- 🌱 I’m currently learning **React js**
-
-- 💬 Ask me about **laravel**
+- 💬 Ask me about **laravel & React JS**
 
 - 📫 How to reach me **sm.shahriar1230@gmail.com**
 
